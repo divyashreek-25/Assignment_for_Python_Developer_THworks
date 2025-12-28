@@ -8,7 +8,7 @@
 
 ## Run locally
 ```
-python app/main.py
+python -m app.main
 ```
 
 ## Run with Docker
